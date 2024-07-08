@@ -5,6 +5,7 @@
 
 ## Reference
 
+* [Page](reference/page.md)
 * [API via Github](reference/api-via-github.md)
 * [API Reference](reference/api-reference/README.md)
   * [Pets](reference/api-reference/pets.md)
